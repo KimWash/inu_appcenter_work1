@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set>
+    <objectAnimator
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:duration="1000"
+        android:propertyName="pathData"
+        android:valueFrom="M294.441 378.352C289.963 364.591 312.751 334.596 345.341 311.357C377.93 288.118 407.98 280.435 412.458 294.196C416.936 307.957 394.147 337.951 361.558 361.19C328.968 384.43 298.919 392.113 294.441 378.352Z"
+        android:valueTo="M294.265 376.372C291.195 358.622 306.817 319.934 329.158 289.959C351.499 259.984 372.1 250.074 375.169 267.824C378.239 285.573 362.617 324.261 340.276 354.236C317.934 384.212 297.334 394.121 294.265 376.372Z"
+        android:valueType="pathType"
+        android:repeatCount="-1"
+        android:repeatMode="reverse"/>
+</set>
